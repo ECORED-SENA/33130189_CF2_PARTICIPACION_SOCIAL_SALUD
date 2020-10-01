@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="121.413" viewBox="0 0 121 121.413">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset="0.014" stop-color="#fee72e"/>
+      <stop offset="0.042" stop-color="#fed51b"/>
+      <stop offset="0.07" stop-color="#fdca10"/>
+      <stop offset="0.1" stop-color="#fdc70c"/>
+      <stop offset="0.4" stop-color="#f3903f"/>
+      <stop offset="0.8" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <filter id="Trazado_12324" x="2.96" y="6.626" width="114.787" height="114.787" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" y1="-0.54" y2="4.176" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="-0.059" y2="1.041" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" y1="-1.143" y2="2.525" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_13310" data-name="Grupo 13310" transform="translate(-250 -7818)">
+    <g id="Grupo_13178" data-name="Grupo 13178" transform="translate(0 1119)">
+      <circle id="Elipse_668" data-name="Elipse 668" cx="60.5" cy="60.5" r="60.5" transform="translate(250 6699)" opacity="0.75" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 250, 6699)" filter="url(#Trazado_12324)">
+        <path id="Trazado_12324-2" data-name="Trazado 12324" d="M48.393,0A48.393,48.393,0,1,1,0,48.393,48.393,48.393,0,0,1,48.393,0Z" transform="translate(11.96 12.63)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="pharmacy-drug-drugstore-pharmacist-apothecary" transform="translate(279 7847)">
+      <path id="Trazado_12556" data-name="Trazado 12556" d="M29,16v3a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V16h3a1,1,0,0,0,1-1V11a1,1,0,0,0-1-1H35V7a1,1,0,0,0-1-1H30a1,1,0,0,0-1,1v3H26a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1Zm-2-4h3a1,1,0,0,0,1-1V8h2v3a1,1,0,0,0,1,1h3v2H34a1,1,0,0,0-1,1v3H31V15a1,1,0,0,0-1-1H27Z" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_12557" data-name="Trazado 12557" d="M61,17a1,1,0,0,0,1-1V10a1,1,0,0,0-1-1H42.24A10.99,10.99,0,0,0,21.76,9H3a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H4V56H3a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V57a1,1,0,0,0-1-1H60V17ZM32,4a9,9,0,1,1-9,9A9,9,0,0,1,32,4Zm0,20a11.025,11.025,0,0,0,10.24-7H58V56H50V43a1,1,0,0,0-1-1H39V39a3,3,0,0,0-2.58-2.96A3.943,3.943,0,0,0,37,34V30a4,4,0,0,0-4-4H31a4,4,0,0,0-4,4v4a3.943,3.943,0,0,0,.58,2.04A3,3,0,0,0,25,39v3H15a1,1,0,0,0-1,1V56H6V17H21.76A11.025,11.025,0,0,0,32,24Zm.94,8.03,2.06.69V34a2.006,2.006,0,0,1-2,2H31a2.006,2.006,0,0,1-2-2V32.82ZM29,30.78V30a2.006,2.006,0,0,1,2-2h2a2.006,2.006,0,0,1,2,2v.61l-1.68-.56a1.023,1.023,0,0,0-.52-.03ZM31,38v2h2V38h3a1,1,0,0,1,1,1v3H27V39a1,1,0,0,1,1-1Zm17,6V56H16V44ZM4,11H21.19a10.621,10.621,0,0,0,0,4H4ZM60,60H4V58H60ZM42.81,15a10.621,10.621,0,0,0,0-4H60v4Z" fill="url(#linear-gradient-3)"/>
+      <path id="Trazado_12558" data-name="Trazado 12558" d="M10,21H20V19H9a1,1,0,0,0-1,1V36a1,1,0,0,0,1,1H23V35H10Z" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_12559" data-name="Trazado 12559" d="M54,21V35H41v2H55a1,1,0,0,0,1-1V20a1,1,0,0,0-1-1H44v2Z" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>

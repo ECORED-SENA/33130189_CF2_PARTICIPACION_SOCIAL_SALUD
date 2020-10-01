@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="121.413" viewBox="0 0 121 121.413">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset="0.014" stop-color="#fee72e"/>
+      <stop offset="0.042" stop-color="#fed51b"/>
+      <stop offset="0.07" stop-color="#fdca10"/>
+      <stop offset="0.1" stop-color="#fdc70c"/>
+      <stop offset="0.4" stop-color="#f3903f"/>
+      <stop offset="0.8" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <filter id="Trazado_12324" x="2.96" y="6.626" width="114.787" height="114.787" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_13177" data-name="Grupo 13177" transform="translate(-250 -6699)">
+    <circle id="Elipse_668" data-name="Elipse 668" cx="60.5" cy="60.5" r="60.5" transform="translate(250 6699)" opacity="0.75" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 250, 6699)" filter="url(#Trazado_12324)">
+      <path id="Trazado_12324-2" data-name="Trazado 12324" d="M48.393,0A48.393,48.393,0,1,1,0,48.393,48.393,48.393,0,0,1,48.393,0Z" transform="translate(11.96 12.63)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
