@@ -9,32 +9,32 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "introduccion",
-    "title": "Introducción",
+    "title": "1. Introducción",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/introduccion.html"     
   },
   { 
     "id": 2,
     "icon": "fa fa-file-text",
-    "slug": "componentes-bs",
-    "title": "1. Responsabilidades y Deberes que genera la Política de Participación Social en Salud.",
+    "slug": "Deberes",
+    "title": "2. Responsabilidades y Deberes que genera la Política de Participación Social en Salud.",
     "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/tema_1.html"    
+    "path": "pages/1-tema.html"    
   },
   { 
     "id": 3,
     "icon": "fa fa-file-text",
-    "slug": "Mecanismos",
-    "title": "2. Mecanismos y espacios de participación",
+    "slug": "mecanismos",
+    "title": "3. Mecanismos y espacios de participación",
     "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/tema_2.html"    
+    "path": "pages/2-tema.html"    
   },
   { 
     "id": 4,
     "icon": "fa fa-file-text",
-    "slug": "Estrategias",
-    "title": "3. Estrategias Operativas",
+    "slug": "estrategias",
+    "title": "4. Estrategias Operativas",
     "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/tema_3.html"    
+    "path": "pages/3-tema.html"    
   }
 ]

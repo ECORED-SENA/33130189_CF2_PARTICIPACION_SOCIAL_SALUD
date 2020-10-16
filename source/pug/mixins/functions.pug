@@ -14,9 +14,9 @@ mixin pageHeader(tituloTema, srcImagen, pagina)
                 if pagina == 'main'
 
                     .keywords
-                        span.badge.badge-pill.badge-warning.mr-2 #Política
-                        span.badge.badge-pill.badge-danger.mr-2 #Salud
-                        span.badge.badge-pill.badge-warning.mr-2 #Colombia
+                        span.badge.badge-pill.badge-light.mr-2 #Política
+                        span.badge.badge-pill.badge-light.mr-2 #Salud
+                        span.badge.badge-pill.badge-light.mr-2 #Colombia
 
                     .barra-dots.mt-5
                         img.img-fluid(src='assets/images/header/icon_dots.svg', alt='alt')
@@ -27,7 +27,7 @@ mixin pageHeader(tituloTema, srcImagen, pagina)
 
         
                 if pagina == 'home'
-                    a.curso-btn-iniciar.btn.btn-light(href="main.html")
+                    a.curso-btn-iniciar.btn.btn-danger(href="main.html")
                         span Iniciar curso
 
 
@@ -193,9 +193,8 @@ mixin creditosFooter(ruta)
                         span.text-small Diseño web & producción audiovisual<br/>
 
                     p.footer-texto
-                        | #[strong Edgar Mauricio Cortes]<br/>
-                        | #[strong Magdi Khalifah Gamboa]<br/>                
-                        span.text-small Desarrollo front-end<br/>
+                        | #[strong Edward Leonardo Pico Cabra]<br/>       
+                        span.text-small Desarrollo front-end<br/>                        
 
                     p.footer-texto
                         span.text-small.text-uppercase CENTRO INDUSTRIAL DEL DISEÑO Y LA MANUFACTURA   
@@ -207,10 +206,9 @@ mixin creditosFooter(ruta)
                         | Gestores de repositorio
                     
                     p.footer-texto
-                        | #[strong Alba Ines Gutierrez Gonzalez ]<br/>
-                        | #[strong Fernando Amortegui ]<br/>  
-                        | #[strong Daniel Felipe Varon Molina ]<br/>     
-                        span.text-small Validación de recursos.<br/>
+                        | #[strong Brayan Stiven Pinto Diaz ]<br/>
+                        | #[strong Ricardo Alfonso Gonzalez Vargas ]<br/>  
+                        span.text-small Desarrollo front-end<br/>
 
                     p.footer-texto
                         span.text-small.text-uppercase Centro de comercio y servicios  
